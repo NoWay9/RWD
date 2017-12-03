@@ -306,3 +306,10 @@ footer{
         margin-left: 15px;
     }
 }
+
+
+@media(min-width:1440px){
+    div#header1{
+        margin-right: 60px;
+    }
+}
