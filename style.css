@@ -129,7 +129,7 @@ main .navbar{
 .navbar div{
     background-color: #e84900;
     width: 80%;
-    height: 8vh;
+    height: 6%;
     margin-bottom: 15px;
 }
 
@@ -232,7 +232,7 @@ footer{
 
     .navbar div{
         width: 22%;
-        overflow: hidden;
+        height: 20px;
     }
 
     .hide{
@@ -250,25 +250,32 @@ footer{
     .article-head{
         flex-direction: column;
         justify-content: flex-start;
-        height: 44%;
+        height: 51%;
     }
 
 
     .article-head  .photo{
         width: 100%;
-        height:50%;
+        height:95%;
     }
 
 
     .article-head .post{
         width: 100%;
         margin-top: 20px;
+        margin-left: 5px;
     }
 
 
     .article-main{
-        height: 54%;
+        height: 47%;
         margin-top: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .article-main div{
+        height: 11px;
     }
 
 
@@ -293,5 +300,9 @@ footer{
     .footer-section div{
         width: 12%;
         height: 45%;
+    }
+
+    .Offs {
+        margin-left: 15px;
     }
 }
