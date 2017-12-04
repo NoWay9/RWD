@@ -261,9 +261,10 @@ footer{
 
 
     .article-head .post{
-        width: 100%;
+        width: 95%;
         margin-top: 20px;
         margin-left: 5px;
+        margin-right: 5px;
     }
 
 
@@ -272,6 +273,7 @@ footer{
         margin-top: 10px;
         margin-left: 5px;
         margin-right: 5px;
+        width: 95%;
     }
 
     .article-main div{
