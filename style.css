@@ -315,3 +315,20 @@ footer{
         margin-right: 60px;
     }
 }
+
+
+@media(min-width:1920px){
+   header {
+       max-width: 1920px;
+   }
+
+
+   main{
+       width: 1504px;
+   }
+
+
+   footer{
+       width: 1920px;
+   }
+}
